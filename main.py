@@ -1,3 +1,8 @@
+#Nama   : Muhammad Faisal Muzhaffar
+#NIM    : 20230040125
+#Kelas  : TI23C
+
+
 from luas.persegi import luas_persegi
 from luas.segitiga import luas_segitiga
 from luas.lingkaran import luas_lingkaran
